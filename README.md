@@ -5,7 +5,7 @@ I'm Ashir, a data science graduate student at Northeastern University with a pas
 Master of Science in Data Science, Northeastern University, Khoury College of Computer Science (expected July 2023)
 Bachelor of Technology in Computer Engineering, Indus University, Ahmedabad, India (Aug 2017 - May 2021)
 
-###Skills
+### Skills
 Programming Languages: Python(Numpy, Pandas, Sklearn, Matplotlib, Seaborn, Tensorflow, NLTK), R(Shiny, Ggplot), SQL, C++, Javascript.
 Machine Learning Algorithms: Linear & Logistic Regression, Decision Trees, Random Forest, XGBoost, Adaboost, SVM, KNN.
 Data Analysis and Visualization: Data Manipulation, Data Mining, Predictive Modeling, Time Series Analysis, Deep Learning, Web Scraping, Probability, Statistical.
